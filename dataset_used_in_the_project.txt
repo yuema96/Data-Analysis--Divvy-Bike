@@ -1,0 +1,33 @@
+To run this code, please store all the dataset in a folder named "data"
+
+-2019-
+1. Divvy_Trips_2019_Q1
+2. Divvy_Trips_2019_Q2
+3. Divvy_Trips_2019_Q3
+4. Divvy_Trips_2019_Q4
+
+-2020-
+1. Divvy_Trips_2020_Q1
+2. 202004-divvy-tripdata
+3. 202005-divvy-tripdata
+4. 202006-divvy-tripdata
+5. 202007-divvy-tripdata
+6. 202008-divvy-tripdata
+7. 202009-divvy-tripdata
+8. 202010-divvy-tripdata
+9. 202011-divvy-tripdata
+10. 202012-divvy-tripdata
+
+-2021-
+1. 202101-divvy-tripdata
+2. 202102-divvy-tripdata
+3. 202103-divvy-tripdata
+4. 202104-divvy-tripdata
+5. 202105-divvy-tripdata
+6. 202106-divvy-tripdata
+7. 202107-divvy-tripdata
+8. 202108-divvy-tripdata
+9. 202109-divvy-tripdata
+10. 202110-divvy-tripdata
+11. 202111-divvy-tripdata
+12. 202112-divvy-tripdata
